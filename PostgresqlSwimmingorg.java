@@ -1,3 +1,4 @@
+/*Code was written by Nolan Stilwell-Carroll. Essay was written by Anwar Arshad.*/
 import java.sql.*;
 import java.util.Scanner;
 
