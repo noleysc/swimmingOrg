@@ -16,6 +16,6 @@ open PostgresqlSwimmingorg.java with vscode
 
 edited changes must be recompiled
 
-Developers: Nolan Stilwell-Carroll, Anwar Arshad
-Code is by Nolan Stilwell-Carroll. 
-Project report is by Anwar Arshad, edited by Stilwell-Carroll.
+- Developers: Nolan Stilwell-Carroll, Anwar Arshad
+- Code is by Nolan Stilwell-Carroll. 
+- Project report is by Anwar Arshad, edited by Stilwell-Carroll.
